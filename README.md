@@ -29,6 +29,7 @@ Hoje você acaba aprendendo (aprendendo mesmo?) várias matérias, que não vai 
 - Carente de matérias nas grades curriculares: a Uniasselvi/NEAD era um exemplo disso, por semestre tinha 4 matérias, dizia que o aluno cursava "80h" de cada matéria, mas na prática, o aluno - nem estudando em casa junto - não dava 20h de curso.
 - Apostilas são carentes de prática e pragmatismo: posso citar como exemplos várias apostilas da Uniasselvi e Unisul de informática.
 - O pior é ver cursos de "engenharia EAD" sem o aluno sequer mexer com materiais químicos e fazer experiências de física. Um bom engenheiro teria base sólida testada em laboratórios.
+- Diminui drasticamente a possibilidade de fazer *networking* (o que é extremamente importante pra todo profissional de tecnologia), já que o aluno não se encontra tão presente na instituição. 
 
 ### Dicas
 - CASO você resolva ainda fazer, não faça o curso superior numa instituição ruim - ainda mais se for em instituioções particulares - (olhe o guia do estudante, enade etc e converse com pessoas que já fizeram ou fazem o curso há mais de 1 ano na instituição na qual você pensa em fazer).
