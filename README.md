@@ -53,7 +53,7 @@ dentre outros. Fora outras centenas de personalidades na área de TI que fizeram
 - Richard Stallman (GNU, GPL, Free Software, Copyleft) - Formado em Física
 - Jose Valim (Linguagem Elixir) - Formado em Engenharia Elétrica
 - Elon Musk (Tesla, SpaceX) - Formado em Física
-- Eric S. Raymond (Hacker, Programador, Free Software Evanghelist, Escritor) - Formado em Filosofia
+- Eric S. Raymond (Hacker, Programador, Free Software Evangelist, Escritor) - Formado em Filosofia
 
 ## Conclusão
 - Você não precisa de uma faculdade para ser bem sucedido, basta ter sonhos, ideias e ser persistente, nunca parar de estudar
