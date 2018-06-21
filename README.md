@@ -1,4 +1,4 @@
-# Cursos superiores de T.I. no Brasil
+# Cursos superiores de Tecnologia da Informação no Brasil
 Um post que ressalta as vantagens e desvantagens de fazer um curso superior de TI no Brasil e dá dicas sobre o percurso a se tomar na vida
 
 Primeiro iremos falar das vantagens e depois das desvantagens (que são muito mais, na minha análise)
@@ -32,18 +32,46 @@ Hoje você acaba aprendendo (aprendendo mesmo?) várias matérias, que não vai 
 - Diminui drasticamente a possibilidade de fazer *networking* (o que é extremamente importante pra todo profissional de tecnologia), já que o aluno não se encontra tão presente na instituição. 
 
 ### Dicas
-- CASO você resolva ainda fazer, não faça o curso superior numa instituição ruim - ainda mais se for em instituioções particulares - (olhe o guia do estudante, enade etc e converse com pessoas que já fizeram ou fazem o curso há mais de 1 ano na instituição na qual você pensa em fazer).
-- Você não precisa de faculdade de TI para ser bom com tecnologia. Exceto se você quiser fazer engenharia de computação, pois irá necessariamente precisar de laboratórios de Hardware, não adianta ficar em "laboratório virtual de hardware" que você não irá aprender o suficiente, na prática você leva até choque :)
+- **Caso você resolva ainda fazer**, não faça o curso superior numa instituição ruim - ainda mais se for em instituições particulares - (olhe o Guia do Estudante, Enade, ReclameAqui, visite o polo da instituição etc e converse com pessoas que já fizeram ou fazem o curso há mais de 1 ano na instituição na qual você pensa em fazer).
+- Você não precisa de faculdade de TI para ser bom com tecnologia. Exceto se você quiser fazer engenharia de computação, pois irá necessariamente precisar de laboratórios de Hardware, não adianta ficar em "laboratório virtual de hardware" que você não irá aprender o suficiente, na prática você leva até choque :). Cuidado com instituições que colocam links de wikipedia no material, colocam códigos errados em apostilas.
 - **Você não precisa fazer um curso superior para aprender a programar**, na verdade, as instituições não irão te ensinar a programar, elas só te mostrarão como algumas linguagens funcionam (sintaxe, recursos da linguagem, poder, sistema de tipos etc), a implementação de alguns algoritmos e estruturas de dados. Você só irá aprender na prática mesmo, fazendo, *debugando*, testando. Fazer um software para seu TCC ou paper não irá te tornar programador. Na verdade, um bom programador de faz com muitos anos de experiência, veja [este post do Peter Norvig](http://norvig.com/21-days.html)
 - Não faça faculdade "só pra ter o diploma de algo": não vale à pena gastar 2-5 anos da sua vida, gastando dinheiro todo mês e perdendo tempo com uma instituição ruim, pra no final nem conseguir emprego por não ter um bom portifólio.
 - "Faço faculdade de TI porque meus pais mandaram/queriam", embora eu ache que essa frase seja difícil de ser ouvida, não acho que seja impossível, e se você está fazendo só por causa dos pais, faça o possível para sair desse curso e ir logo para a área que você gosta e ser feliz. Ninguém mais aguenta pessoas nos grupos de facebook postando que formata computador a 20 reais e "fazendo sites" (aka instalar wordpress) a 200 reais.
 - Se você é autodidata e não gosta da ideia de fazer um curso superior, mas queria ter um conhecimento tal qual, existe essa galera que criou um modelo de ensino open source baseado em leitura de livros e artigos que, ao ler e estudar tudo, você tecnicamente terá o mesmo conhecimento ou equiparado, a uma pessoa formada em ciências da computação: [veja aqui a OSSU](https://github.com/ossu/computer-science)
 
+#### Pessoas bem sucedidas na área de Tecnologia que *não fizeram curso superior*
+- Bill Gates (Microsoft)
+- Paul Allen (Microsoft)
+- Mark Zuckerberg (Facebook)
+- Steve Jobs (Apple)
+- Michael Dell (Dell)
+- Julian Assange (Wikileaks)
+- Thomas Edison ([inventor de tecnologias](https://www.google.com.br/search?q=thomas+edison+inventions))
+- Larry Ellison (Oracle)
+- Kevin Mitnick (programador, gênio da segurança digital)
+
+dentre outros. Fora outras centenas de personalidades na área de TI que fizeram curso superior **MAS** não foi na área de TI, como:
+- Richard Stallman (GNU, GPL, Free Software, Copyleft) - Formado em Física
+- Jose Valim (Linguagem Elixir) - Formado em Engenharia Elétrica
+- Elon Musk (Tesla, SpaceX) - Formado em Física
+- Eric S. Raymond (Hacker, Programador, Free Software Evanghelist, Escritor) - Formado em Filosofia
+
 ### Leia aqui se você quer aprender a programar
 - Se você **não sabe** inglês, faça os ["Cursos em Vídeo" do professor Gustavo Guanabara](https://www.cursoemvideo.com/courses/) onde em vários cursos é emitido gratuitamente certificado após terminar o curso e fazer um teste para determinar se você aprendeu.
-- Se você **sabe** inglês, e quer aprender a programar, em especial, Desenvolvimento Web, recomendo fortemente a [FreeCodeCamp](https://www.freecodecamp.org/), que ensinará de forma extremamente pragmática HTML, CSS, JavaScript e vários frameworks e libs, assim como trabalhar com JavaScript no servidor (NodeJS). O curso hoje da FreeCodeCamp tem um curriculo de 2 mil horas de curso (isso mesmo) e durante o curso você fará mais de 30 projetos (30 projetos para seu portfólio!). 
+- Se você **sabe** inglês, e quer aprender a programar, em especial, Desenvolvimento Web, recomendo fortemente a [FreeCodeCamp](https://www.freecodecamp.org/), que ensinará de forma extremamente pragmática HTML, CSS, JavaScript e vários frameworks e bibliotecas de programação, assim como trabalhar com JavaScript no servidor (NodeJS). O curso hoje da FreeCodeCamp tem um curriculo de 2 mil horas de curso (isso mesmo - basicamente a metade de um bacharelado) e durante o curso você fará mais de 30 projetos (30 projetos para seu portfólio!). 
 - Se você tem dúvidas sobre qual linguagem de programação começar, pense em começar com Python ou JavaScript. Na prática, as 2 são extremamente úteis e são muito fáceis de aprender devido suas sintaxes e a gama de ferramentas pra auxiliar no desenvolvimento de ambas.
 
+## Conclusão
+- Você não precisa de uma faculdade para ser bem sucedido, basta ter sonhos, ideias e ser persistente, nunca parar de estudar
+- Curso superior de TI não te faz um profissional melhor, nem pior, mas pode atrasá-lo para ser um profissional melhor e consumir tempo e dinheiro demasiados
+- Um github cheio de projetos e contribuições vale mais do que um certificado universitário
+- Curso superior não te garante emprego, estabilidade, riqueza ou mesmo te faz um intelectual na área
+- Felizmente, muitas empresas estão começando a dar mais valor pra quem sabe fazer acontecer de verdade, do que para àqueles que só tem um papel escrito "certificado de conclusão de curso superior"
+- Você não precisa de faculdade para aprender a programar
+- Existe muito profissional não formado melhor que profissional com diploma ou recém formado
+- 4 anos fazendo um curso superior de TI é menos proveitoso pro mercado de trabalho do que pra àqueles que estiveram 4 anos trabalhando arrecando experiência e conhecimento pragmático pra si. Teoria sem prática não serve pra muita coisa - e teoria você consegue lendo diretamente da fonte e estudando de casa :)
+- Para cursos de TI (exceto engenharia da computação), você não precisa de laboratórios de universidades, já que pode tê-los em casa, como [Circuito.io](https://www.circuito.io/) para circuitos, Cisco Labs para redes, IBM Watson e AWS para Cloud Computing, IA e Web Services e Sistemas distribuídos, Owasp e Metasploitable para a área de Segurança da Informação, e seu próprio computador para programar, realizar testes de software, engenharia e qualidade do mesmo
 
 ----------------------
 # EM PROGRESSO
+Ajude a melhorar este Readme
