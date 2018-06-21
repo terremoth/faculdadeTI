@@ -49,6 +49,8 @@ Primeiro iremos falar das vantagens e depois das desvantagens (que são muito ma
 - Thomas Edison ([inventor de tecnologias](https://www.google.com.br/search?q=thomas+edison+inventions))
 - Larry Ellison (Oracle)
 - Kevin Mitnick (programador, gênio da segurança digital)
+PS: alguns voltaram a concluir os cursos que largaram depois de ficarem milionários/bilionários
+
 
 dentre outros. Fora outras centenas de personalidades na área de TI que fizeram curso superior **MAS** não foi na área de TI, como:
 - Richard Stallman (GNU, GPL, Free Software, Copyleft) - Formado em Física
