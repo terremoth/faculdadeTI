@@ -75,3 +75,5 @@ dentre outros. Fora outras centenas de personalidades na área de TI que fizeram
 ----------------------
 # EM PROGRESSO
 Ajude a melhorar este Readme
+
+Shortlink para este respositorio: http://bit.ly/faculdadeTI
