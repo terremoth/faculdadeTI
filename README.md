@@ -11,6 +11,8 @@ Primeiro iremos falar das vantagens e depois das desvantagens (que são muito ma
 - Ter palestras e workshops específicos (difícil mas existe o caso de ser específico só de universitário)
 - Iniciação científica -> perfil para cientista/pesquisador, que geralmente só se oferece em instituições grandes, com laboratórios e corpo de doutores dedicado para.
 - Várias empresas do exterior (não a maioria), ainda infelizmente exigem formação de curso superior.
+- Poder participar de Maratonas de Programação e hackathons específicos de faculdades
+- Um pocuo de facilidade pra conseguir o primeiro emprego sem experiência se comparado a alguém *sem experiência **e** sem faculdade*
 
 ## Desvantagens (Geral)
 
@@ -36,7 +38,7 @@ Primeiro iremos falar das vantagens e depois das desvantagens (que são muito ma
 - **Você não precisa fazer um curso superior para aprender a programar**, na verdade, as instituições não irão te ensinar a programar, elas só te mostrarão como algumas linguagens funcionam (sintaxe, recursos da linguagem, poder, sistema de tipos etc), a implementação de alguns algoritmos e estruturas de dados. Você só irá aprender na prática mesmo, fazendo, *debugando*, testando. Fazer um software para seu TCC ou paper não irá te tornar programador. Na verdade, um bom programador se faz com muitos anos de experiência, veja [este post do Peter Norvig](http://norvig.com/21-days.html)
 - Não faça faculdade "só pra ter o diploma de algo": não vale à pena gastar 2-5 anos da sua vida, gastando dinheiro todo mês e perdendo tempo com uma instituição ruim, pra no final nem conseguir emprego por não ter um bom portifólio.
 - "Faço faculdade de TI porque meus pais mandaram/queriam", embora eu ache que essa frase seja difícil de ser ouvida, não acho que seja impossível, e se você está fazendo só por causa dos pais, faça o possível para sair desse curso e ir logo para a área que você gosta e ser feliz. Ninguém mais aguenta pessoas nos grupos de facebook postando que formata computador a 20 reais e "fazendo sites" (aka instalar wordpress) a 200 reais.
-- Se você é autodidata e não gosta da ideia de fazer um curso superior, mas queria ter um conhecimento tal qual, existe essa galera que criou um modelo de ensino open source baseado em leitura de livros e artigos que, ao ler e estudar tudo, você tecnicamente terá o mesmo conhecimento ou equiparado, a uma pessoa formada em ciências da computação: [veja aqui a OSSU](https://github.com/ossu/computer-science)
+- Se você é autodidata e não gosta da ideia de fazer um curso superior, mas queria ter um conhecimento tal qual, existe uma galera que criou modelos de ensino open source baseado em livros, artigos e vídeos que, ao ler e estudar tudo, você tecnicamente terá o mesmo conhecimento ou equiparado, a uma pessoa formada em ciências da computação: [veja aqui a OSSU](https://github.com/ossu/computer-science), o [Teach Yourself CS](https://teachyourselfcs.com/) e um [Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) 
 - Ter uma certificação reconhecida na área, como ITIL, COBIT, LPIC, ECEH, OCA/OCP, Zend, etc (a sopa de letrinhas) agrega muito no currículo (internacionalmente falando, inclusive), valoriza de forma generosa o profissional e demonstra domínio sobre o assunto, e claro: custa bem menos que um curso universitário, talvez a prova custe 1 mensalidade de uma universidade comum por aí. É só estudar, comprar o voucher e fazer a prova, se passar, você será certificado. 
 
 #### Pessoas bem sucedidas na área de Tecnologia que *não fizeram curso superior*
@@ -46,7 +48,6 @@ Primeiro iremos falar das vantagens e depois das desvantagens (que são muito ma
 - Steve Jobs (Apple)
 - Michael Dell (Dell)
 - Julian Assange (Wikileaks)
-- Thomas Edison ([inventor de tecnologias](https://www.google.com.br/search?q=thomas+edison+inventions))
 - Larry Ellison (Oracle)
 - Kevin Mitnick (programador, gênio da segurança digital)
 PS: alguns voltaram a concluir os cursos que largaram depois de ficarem milionários/bilionários
