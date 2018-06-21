@@ -12,7 +12,7 @@ Primeiro iremos falar das vantagens e depois das desvantagens (que são muito ma
 - Iniciação científica -> perfil para cientista/pesquisador, que geralmente só se oferece em instituições grandes, com laboratórios e corpo de doutores dedicado para.
 - Várias empresas do exterior (não a maioria), ainda infelizmente exigem formação de curso superior.
 - Poder participar de Maratonas de Programação e hackathons específicos de faculdades
-- Um pocuo de facilidade pra conseguir o primeiro emprego sem experiência se comparado a alguém *sem experiência **e** sem faculdade*
+- Um pouco de facilidade pra conseguir o primeiro emprego sem experiência se comparado a alguém *sem experiência **e** sem faculdade*
 
 ## Desvantagens (Geral)
 
