@@ -51,10 +51,9 @@ Primeiro iremos falar das vantagens e depois das desvantagens (que são muito ma
 - Julian Assange (Wikileaks)
 - Larry Ellison (Oracle)
 - Kevin Mitnick (programador, gênio da segurança digital)
-PS: alguns voltaram a concluir os cursos que largaram depois de ficarem milionários/bilionários
+PS: alguns voltaram a concluir os cursos que largaram depois de ficarem milionários/bilionários, dentre outros. 
 
-
-dentre outros. Fora outras centenas de personalidades na área de TI que fizeram curso superior **MAS** não foi na área de TI, como:
+Fora outras centenas de personalidades na área de TI que fizeram curso superior **MAS** não foi na área de TI, como:
 - Richard Stallman (GNU, GPL, Free Software, Copyleft) - Formado em Física
 - Jose Valim (Linguagem Elixir) - Formado em Engenharia Elétrica
 - Elon Musk (Tesla, SpaceX) - Formado em Física
@@ -75,6 +74,7 @@ dentre outros. Fora outras centenas de personalidades na área de TI que fizeram
 - [Grátis] Se você **não sabe** inglês, faça os ["Cursos em Vídeo" do professor Gustavo Guanabara](https://www.cursoemvideo.com/courses/) onde em vários cursos é emitido gratuitamente certificado após terminar o curso e fazer um teste para determinar se você aprendeu.
 - [Grátis] Se você **sabe** inglês, e quer aprender a programar, em especial, Desenvolvimento Web, recomendo fortemente a [FreeCodeCamp](https://www.freecodecamp.org/), que ensinará de forma extremamente pragmática HTML, CSS, JavaScript e vários frameworks e bibliotecas de programação, assim como trabalhar com JavaScript no servidor (NodeJS). O curso hoje da FreeCodeCamp tem um curriculo de 2 mil horas de curso (isso mesmo - basicamente a metade de um bacharelado) e durante o curso você fará mais de 30 projetos (30 projetos para seu portfólio!). 
 - Se você tem dúvidas sobre qual linguagem de programação começar, pense em começar com Python ou JavaScript. Na prática, as 2 são extremamente úteis e são muito fáceis de aprender devido suas sintaxes e a gama de ferramentas pra auxiliar no desenvolvimento de ambas.
+- Existe uma ótima plataforma de cursos online pagos e gratúitos, que te ajudarão bastante a aprender diversas áreas da computação. É a [Udemy](https://www.udemy.com/), que frequentemente tem cursos em promoção, que geralmente ficam em torno de 20 reais cada curso. Escolha uma área em que quer aprender e siga em frente.
 
 ----------------------
 # EM PROGRESSO
