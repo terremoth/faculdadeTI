@@ -1,5 +1,5 @@
 # Cursos superiores de Tecnologia da Informação no Brasil
-Um post que ressalta as vantagens e desvantagens de fazer um curso superior de TI no Brasil e dá dicas sobre o percurso a se tomar na vida
+Um post que ressalta as vantagens e desvantagens de fazer um curso superior de TI no Brasil e dá dicas sobre o percurso a se tomar na vida. Vale lembrar que este post é minha opinião também baseado nas minhas vivências.
 
 A área de tecnologia da informação e comunicação é extremamente abrangente, já há mais de 10 modalidades de cursos superiores diferentes que seguem vertentes de conhecimentos diferentes, e você pode conferir [uma lista desses cursos aqui](https://dutrahacking.blogspot.com/2016/10/diferencas-entre-cursos-de-ti.html). 
 
@@ -42,7 +42,7 @@ Primeiro iremos falar das vantagens e depois das desvantagens (que são muito ma
 - Ter uma certificação reconhecida na área, como ITIL, COBIT, LPIC, ECEH, OCA/OCP, Zend, etc (a sopa de letrinhas) agrega muito no currículo (internacionalmente falando, inclusive), valoriza de forma generosa o profissional e demonstra domínio sobre o assunto, e claro: custa bem menos que um curso universitário, talvez a prova custe 1 mensalidade de uma universidade comum por aí. É só estudar, comprar o voucher e fazer a prova, se passar, você será certificado.
 - Se você nunca trabalhou com TI e deseja o primeiro emprego e não irá fazer faculdade, invista pesado em cursos e portfólio. Você pode pegar freelances para fazer no [99Freelas](https://www.99freelas.com.br/) e na [Workana](https://www.workana.com/pt) e fazer os cursos mencionados neste README.
 
-#### Pessoas bem sucedidas na área de Tecnologia que *não fizeram curso superior*
+#### Você não precisa de faculdade para ficar milionário:
 - Bill Gates (Microsoft)
 - Paul Allen (Microsoft)
 - Mark Zuckerberg (Facebook)
@@ -51,8 +51,8 @@ Primeiro iremos falar das vantagens e depois das desvantagens (que são muito ma
 - Julian Assange (Wikileaks)
 - Larry Ellison (Oracle)
 - Kevin Mitnick (programador, gênio da segurança digital)
-PS: alguns voltaram a concluir os cursos que largaram depois de ficarem milionários/bilionários
 
+PS: alguns voltaram a concluir os cursos que largaram depois de ficarem milionários/bilionários
 
 dentre outros. Fora outras centenas de personalidades na área de TI que fizeram curso superior **MAS** não foi na área de TI, como:
 - Richard Stallman (GNU, GPL, Free Software, Copyleft) - Formado em Física
@@ -69,7 +69,7 @@ dentre outros. Fora outras centenas de personalidades na área de TI que fizeram
 - Você não precisa de faculdade para aprender a programar
 - Existe muito profissional não formado melhor que profissional com diploma ou recém formado
 - 4 anos fazendo um curso superior de TI é menos proveitoso pro mercado de trabalho do que pra àqueles que estiveram 4 anos trabalhando arrecando experiência e conhecimento pragmático pra si. Teoria sem prática não serve pra muita coisa - e teoria você consegue lendo diretamente da fonte e estudando de casa :)
-- Para cursos de TI (exceto engenharia da computação), você não precisa de laboratórios de universidades, já que pode tê-los em casa, como [Circuito.io](https://www.circuito.io/) para circuitos, Cisco Labs para redes, IBM Watson e AWS para Cloud Computing, IA e Web Services e Sistemas distribuídos, Owasp e Metasploitable para a área de Segurança da Informação, e seu próprio computador para programar, realizar testes de software, engenharia e qualidade do mesmo.
+- Para cursos de TI (exceto engenharia da computação e superior em Redes de Computadores), você não precisa de laboratórios de universidades, já que pode tê-los em casa, como [Circuito.io](https://www.circuito.io/) para circuitos, Cisco Labs para redes, IBM Watson e AWS para Cloud Computing, IA e Web Services e Sistemas distribuídos, Owasp e Metasploitable para a área de Segurança da Informação, e seu próprio computador para programar, realizar testes de software, engenharia e qualidade do mesmo.
 
 ### Você não precisa de faculdade pra aprender a programar - Leia aqui se você quer aprender
 - [Grátis] Se você **não sabe** inglês, faça os ["Cursos em Vídeo" do professor Gustavo Guanabara](https://www.cursoemvideo.com/courses/) onde em vários cursos é emitido gratuitamente certificado após terminar o curso e fazer um teste para determinar se você aprendeu.
