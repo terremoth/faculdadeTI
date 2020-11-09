@@ -76,6 +76,9 @@ dentre outros. Fora outras centenas de personalidades na área de TI que fizeram
 - [Grátis] Se você **sabe** inglês, e quer aprender a programar, em especial, Desenvolvimento Web, recomendo fortemente a [FreeCodeCamp](https://www.freecodecamp.org/), que ensinará de forma extremamente pragmática HTML, CSS, JavaScript e vários frameworks e bibliotecas de programação, assim como trabalhar com JavaScript no servidor (NodeJS). O curso hoje da FreeCodeCamp tem um curriculo de 2 mil horas de curso (isso mesmo - basicamente a metade de um bacharelado) e durante o curso você fará mais de 30 projetos (30 projetos para seu portfólio!). 
 - Se você tem dúvidas sobre qual linguagem de programação começar, pense em começar com Python ou JavaScript. Na prática, as 2 são extremamente úteis e são muito fáceis de aprender devido suas sintaxes e a gama de ferramentas pra auxiliar no desenvolvimento de ambas.
 
+#### Leia Também:
+- [Relatório do CAPES mostra que Universidades Particulares no Brasil não produzem conhecimento](https://cartacampinas.com.br/2018/01/xrelatorio-internacional-mostra-que-universidade-particular-no-brasil-nao-produzem-conhecimento/amp/)
+
 ----------------------
 # EM PROGRESSO
 Ajude a melhorar este Readme
