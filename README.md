@@ -68,7 +68,7 @@ dentre outros. Fora outras centenas de personalidades na área de TI que fizeram
 - Felizmente, muitas empresas estão começando a dar mais valor pra quem sabe fazer acontecer de verdade, do que para àqueles que só tem um papel escrito "certificado de conclusão de curso superior"
 - Você não precisa de faculdade para aprender a programar
 - Existe muito profissional não formado melhor que profissional com diploma ou recém formado
-- 4 anos fazendo um curso superior de TI é menos proveitoso pro mercado de trabalho do que pra àqueles que estiveram 4 anos trabalhando arrecando experiência e conhecimento pragmático pra si. Teoria sem prática não serve pra muita coisa - e teoria você consegue lendo diretamente da fonte e estudando de casa :)
+- 4 anos fazendo um curso superior de TI é menos proveitoso pro mercado de trabalho do que pra àqueles que estiveram 4 anos trabalhando arrecadando experiência e conhecimento pragmático pra si. Teoria sem prática não serve pra muita coisa - e teoria você consegue lendo diretamente da fonte e estudando de casa :)
 - Para cursos de TI (exceto engenharia da computação e superior em Redes de Computadores), você não precisa de laboratórios de universidades, já que pode tê-los em casa, como [Circuito.io](https://www.circuito.io/) para circuitos, Cisco Labs para redes, IBM Watson e AWS para Cloud Computing, IA e Web Services e Sistemas distribuídos, Owasp e Metasploitable para a área de Segurança da Informação, e seu próprio computador para programar, realizar testes de software, engenharia e qualidade do mesmo.
 
 ### Você não precisa de faculdade pra aprender a programar - Leia aqui se você quer aprender
